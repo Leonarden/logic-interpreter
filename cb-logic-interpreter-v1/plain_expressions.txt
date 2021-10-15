@@ -1,0 +1,5 @@
+#
+#
+#
+((("It's cold",0.5) OR (I'm wearing few clothes,0.85)) AND  (("It's late",0.9) AND ("I'm starving",0.75)) AND ("When you are starving you feel cold",0.7)))
+#Do I feel cold?

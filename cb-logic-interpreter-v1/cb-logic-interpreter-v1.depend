@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634169195 source:/home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cb-logic-interpreter-v1/main.cpp
+	<iostream>
+	"interpreter.hpp"
+
+1634169676 /home/david/.wrk/user/dev/workspaces/worksc++/code-patterns/cb-logic-interpreter-v1/interpreter.hpp
+	<iostream>
+	<string>
+	<exception>
+	<map>
+

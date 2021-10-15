@@ -1,0 +1,10 @@
+
+We pretend to implement a Logic Interpreter that is defined in the following Grammar:
+
+1: BoolExp ::= VarExp | Const | ORExp | ANDExp | NOTExp | '(' BoolExp ')'
+2: ANDExp ::= BoolExp 'AND' BoolExp
+3: ORExp ::= BoolExp 'OR' BoolExp
+4: NOTExp ::= 'NOT' BoolExp
+5: Const  ::= 'TRUE' | 'FALSE'
+6: VarExp ::= 'A' | 'B' | 'C'|...|'X' | 'Y' | 'Z'
+

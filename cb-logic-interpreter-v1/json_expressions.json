@@ -1,0 +1,9 @@
+//
+//
+//
+expressions=
+{
+{ s:"(",s:"(",s:"(", p:{v:"It's cold",l=0.5},o:"OR",p:{v="I'm wearing few clothes",l:0.7},s:")",o="AND",s="(", p={v:"I'm starving",l:0.85},o:"AND",p:{v="When you are starving you feel cold",l=0.7} ,s=")",s=")"}
+
+}
+
